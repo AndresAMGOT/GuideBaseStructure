@@ -69,3 +69,6 @@ logs/
 
 # Dependency directories
 packages/
+
+# Visual Studio
+*.suo
