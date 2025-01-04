@@ -71,13 +71,13 @@ logs/
 packages/
 
 # Visual Studio
+
 *.suo
-*.suo
-*.json
+
 *.dll
 *.exe
 *.pdb
-*.cs
+
 *.cache
 *.props
 *.Up2Date
