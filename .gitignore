@@ -72,3 +72,10 @@ packages/
 
 # Visual Studio
 *.suo
+*.suo
+*.json
+*.dll
+*.exe
+*.pdb
+*.cs
+*.cache
