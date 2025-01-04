@@ -79,3 +79,7 @@ packages/
 *.pdb
 *.cs
 *.cache
+*.props
+*.Up2Date
+*.txt
+*.editorconfig
